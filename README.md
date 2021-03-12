@@ -1,5 +1,5 @@
 # django_template_filters
-Custom Django templates tag for using templates
+Custom Django templates tag for using in templates
 
 
 1. sum_dic tag if a fiter tag add the key values from a dictionary
